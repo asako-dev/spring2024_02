@@ -104,12 +104,13 @@ header {
     // background-position: center center;
     // background-size: cover;
     // position: relative;
-    margin-top: 150px;
+    margin-top: 80px;
 
     h2 {
-        width: 1600px;
-        margin: auto;
-        // padding: 120px 0;
+        background: $light_green;
+        max-width: 1600px;
+        margin: 0 auto;
+        padding: 100px 0 0;
     }
 
     h3 {

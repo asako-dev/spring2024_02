@@ -743,11 +743,13 @@ footer nav ul:first-of-type {
     background-position: left top, right top 22%, left top 50%, right bottom 25%, left bottom;
   }
   #top {
-    margin-top: 150px;
+    margin-top: 80px;
   }
   #top h2 {
-    width: 1600px;
-    margin: auto;
+    background: #BEDCDA;
+    max-width: 1600px;
+    margin: 0 auto;
+    padding: 100px 0 0;
   }
   #top h3 {
     position: absolute;
@@ -1257,6 +1259,4 @@ footer nav ul:first-of-type {
   }
   /***dlボタンここまで***/
   /***コンテンツここまで***/
-}
-
-/*# sourceMappingURL=style.css.map */
+}/*# sourceMappingURL=style.css.map */
